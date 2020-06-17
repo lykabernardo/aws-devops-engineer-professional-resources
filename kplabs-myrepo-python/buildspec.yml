@@ -8,7 +8,7 @@ phases:
     commands: 
       - echo Compiling has started 
       - echo Compiling the Python code... 
-      - python HelloWorld.py 
+      - python kplabs-myrepo-python/HelloWorld.py 
   post_build: 
     commands: 
       - echo Compiling process has been completed 
